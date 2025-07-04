@@ -1,1 +1,12 @@
-theme: jekyll-theme-minimal
+title: Jan Winkler
+description: This is my space for thoughts on practical AI, software engineering, and an attempt to cut through the hype with honesty and transparency.
+baseurl: ""
+url: "https://janwinkler1.github.io"
+markdown: kramdown
+
+github_username: janwinkler1
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
